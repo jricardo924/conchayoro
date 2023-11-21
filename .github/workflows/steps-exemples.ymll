@@ -1,4 +1,4 @@
-name: JobX
+name: steps examples
 
 on:
   push:
